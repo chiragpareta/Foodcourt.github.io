@@ -1,0 +1,31 @@
+.Flex-all-center {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    padding: 10px;
+    color: rgb(50, 129, 161);
+    background-color: ;
+    border-radius: 81px;
+    cursor: pointer;
+    font-family: 'Ubuntu', sans-serif;
+}
+.btn:hover{
+    color:black;
+    font-weight: bold;
+}
+
+.my-2{
+    margin: 8px 0;
+font-family: 'Ubuntu', sans-serif;
+}
+.text-center{
+    text-align: center;
+}
+img{
+    /* border: 5px solid white; */
+    /* border-radius: 7px; */
+}
